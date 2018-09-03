@@ -7,14 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Alexandria.net.Core;
 namespace SophiaTX_Wallet_Classic
 {
-    public partial class Form1 : Form
+    public partial class MainFrm : Form
     {
-        public Form1()
+        public MainFrm()
         {
             InitializeComponent();
         }
+
+        private void MainFrm_Load(object sender, EventArgs e)
+        {
+            //protected readonly SophiaClient _client = new SophiaClient("5.189.163.19", 9193, );
+    }
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophiaTX-Wallet-Classic", "SophiaTX-Wallet-Classic\SophiaTX-Wallet-Classic.csproj", "{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alexandria.net", "Alexandria-master\Alexandria.net\Alexandria.net.csproj", "{073699E4-677A-438F-ACF6-3D0F00E08558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073699E4-677A-438F-ACF6-3D0F00E08558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073699E4-677A-438F-ACF6-3D0F00E08558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073699E4-677A-438F-ACF6-3D0F00E08558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073699E4-677A-438F-ACF6-3D0F00E08558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
