@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophiaTX-Wallet-Classic", "SophiaTX-Wallet-Classic\SophiaTX-Wallet-Classic.csproj", "{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF6374-3A7E-43B3-AF3B-ECEBEA70746D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799CF3AB-953D-4BBF-9B0F-7A88926580A2}
+	EndGlobalSection
+EndGlobal
